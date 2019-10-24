@@ -1,0 +1,2 @@
+# MagicHome Python API
+
